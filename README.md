@@ -28,8 +28,20 @@ L'intégration avec Qgis se fait au moyen de lignes de métadonnées commençant
 
 Ces métadonnées définissent donc des objets/variables qui seront utilisés dans le corps du script.
 
+## Enregistrement et exécution
+
 Ce script sera enregistré dans un dossier (R scripts folder) situé par défaut dans le dossier du profil en cours d'utilisation mais qui peut être modifié: Menu Préférences \> Options..., section Traitement dans le panneau de droite puis section Fournisseurs de services \> R.
 
 ![](images/image-1431764553.png)
 
 Contrairement à des scripts R classiques, les scripts utilisés avec ce plugin doivent avoir l'extension .rsx et non .R
+
+Une fois les scripts enregistrés au bon endroit, ils seront visibles dans la section dédiée de la boîte à outils de traitements.
+
+![](images/image-1905930129.png)
+
+Le traitement lancé, une fenêtre de dialogue s'ouvre permettant de préciser les paramètres d'entrée/sortie (qui sont définis dans les métadonnées du script) et d'exécuter le traitement.
+
+![](images/image-1397627805.png)
+
+Si le format de sortie du traitement est une couche géographique, elle pourra être automatiquement chargée dans Qgis au terme du traitement.
