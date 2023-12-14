@@ -1,0 +1,15 @@
+Description;Lien;NomScript;NomCouche
+Code national de l’obstacle à l’écoulement;http://id.eaufrance.fr/ddd/OBS/1.2/CdObstEcoul;CdObstEcoul;
+Coordonnée X du point caractéristique de l’ouvrage;http://id.eaufrance.fr/ddd/OBS/1.2/CoordXPointCarOuvrage;CoordXPointCarOuvrage;
+Coordonnée Y du point caractéristique de l’ouvrage;http://id.eaufrance.fr/ddd/OBS/1.2/CoordYPointCarOuvrage;CoordYPointCarOuvrage;
+Nom principal de l’obstacle à l’écoulement;http://id.eaufrance.fr/ddd/OBS/1.2/NomPrincipalObstEcoul;NomPrincipalObstEcoul;
+Nom principal de l’entité hydrographique;http://id.eaufrance.fr/ddd/ETH/2002-1/NomEntiteHydrographique;NomEntiteHydrographique;
+Statut de validation d’un obstacle à l’écoulement;http://id.eaufrance.fr/ddd/OBS/1.2/StObstEcoul;StObstEcoul;
+Libellé de l’état d’un ouvrage;http://id.eaufrance.fr/ddd/OBS/1.2/LbEtOuvrage;LbEtOuvrage;
+Type d’ouvrage;http://id.eaufrance.fr/ddd/ORG/1.0/TypeOuvrage;CdTypeOuvrage;
+Type d’élément mobile d’un seuil;http://id.eaufrance.fr/ddd/OBS/1.2/TypeElMobSeuil;CdTypeElMobSeuil;
+Hauteur de chute estimée à l’étiage;http://id.eaufrance.fr/ddd/OBS/1.2/HautChutEtObstEcoul;HautChutEtObstEcoul;
+Code de la hauteur de chute à l’étiage par classe;http://id.eaufrance.fr/ddd/OBS/1.2/HautChutClObstEcoul;CdHautChutClObstEcoul;
+Usage de l’obstacle à l’écoulement;http://id.eaufrance.fr/ddd/OBS/1.2/UsageObstEcoul;CdUsageObstEcoul;
+Type de dispositif de franchissement piscicole;http://id.eaufrance.fr/ddd/OBS/1.2/TypeDispFranchPiscicole;CdTypeDispFranchPiscicole;
+Type d’organe de franchissement de navigation;http://id.eaufrance.fr/ddd/OBS/1.2/TypeDispFranchNavig;CdTypeDispFranchNavig;
