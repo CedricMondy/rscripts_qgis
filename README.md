@@ -18,7 +18,7 @@ Une fois le plugin installé et Qgis redémarré, de nouvelles options sont disp
 
 Un éditeur simple s'ouvre alors permettant de commcencer à travailler le script qui servira à exécuter le traitement:
 
-![](images/image-1419245693.png){width="483"}
+![](images/image-1419245693.png)
 
 ## Ecrire son script
 
