@@ -27,3 +27,9 @@ Le corps du script est un script R classique avec le chargement des packages né
 L'intégration avec Qgis se fait au moyen de lignes de métadonnées commençant par \## qui définissent comment Qgis et R interagissent au début du fichier, avant le code R. Ces métadonnées définissent la visibilité du traitement dans Qgis (groupe, nom), les données d'entrée en spécifiant leur format (vecteur, raster, numérique, texte...), les sorties (couches, fichiers, graphiques...). Pour plus de détails sur le formalisme et les options possibles pour ces métadonnées, se référer à [la documentation du plugin](https://north-road.github.io/qgis-processing-r/script-syntax/).
 
 Ces métadonnées définissent donc des objets/variables qui seront utilisés dans le corps du script.
+
+Ce script sera enregistré dans un dossier (R scripts folder) situé par défaut dans le dossier du profil en cours d'utilisation mais qui peut être modifié: Menu Préférences \> Options..., section Traitement dans le panneau de droite puis section Fournisseurs de services \> R.
+
+![](images/image-1431764553.png)
+
+Contrairement à des scripts R classiques, les scripts utilisés avec ce plugin doivent avoir l'extension .rsx et non .R
